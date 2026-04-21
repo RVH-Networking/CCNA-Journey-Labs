@@ -14,3 +14,4 @@
 - Successful connected all devices across the network using the correct cable standards
 
 ## Screenshot:
+<img width="1732" height="662" alt="Day 2 Lab" src="https://github.com/user-attachments/assets/7c3ae652-5e19-4e3c-bbac-85d806424945" />
